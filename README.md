@@ -1,5 +1,10 @@
+## Snake 
+![snake gif](https://github.com/PasanIsHere/PasanIsHere/blob/output/github-contribution-grid-snake.gif)
+
+
+
 ### Hi there 👋
-![gitartwork](gitartwork.svg)
+
 
 
 <!--
