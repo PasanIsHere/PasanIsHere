@@ -1,5 +1,5 @@
 ## Snake 
-![snake gif](https://github.com/PasanIsHere/PasanIsHere/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/PasanIsHere/PasanIsHere/blob/output/github-contribution-grid-snake.svg)
 
 
 
