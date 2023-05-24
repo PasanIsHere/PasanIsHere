@@ -7,7 +7,7 @@
 - 💬 Feel free to ask me anything, whether it's about coding, anime, gaming or even just a random chat.
 - 📫 Reach out to me at pasanu@protonmail.com or www.linkedin.com/in/pasan-undugodage. I'd love to connect!
 - 😄 Pronouns: He/Him/They/Them
-- ⚡ Fun fact: 我正在學中文 (I'm currently learning Chinese)
+- ⚡ Fun fact: 我在学中文 (I'm currently learning Chinese)
 - 🎵 Curious about my playlist? Check out what's flowing through my headphones!
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&redirect=true)
