@@ -12,12 +12,12 @@
   
 
 
-|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&redirect=true)||
+|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&redirect=true)|<img src="https://monkey-widget.vercel.app/api/user/XShade" alt="wpm"/>|
 |-|-|
 
 ## What da Snake Doin' 
 ![snake gif](https://github.com/PasanIsHere/PasanIsHere/blob/output/github-contribution-grid-snake.svg)
-<img src="https://monkey-widget.vercel.app/api/user/XShade" alt="wpm"/>
+
 
 
 
