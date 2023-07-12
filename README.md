@@ -12,7 +12,7 @@
   
 
 
-|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&redirect=true)|![GitHub Streak](https://streak-stats.demolab.com?user=PasanIsHere&background=282C34&stroke=E4E2E2&ring=E4BF7A&fire=E4BF7A&currStreakNum=DF6D74&border=E4E2E2&currStreakLabel=E4BF7A&sideNums=DF6D74&sideLabels=DF6D74&dates=8EB573)|
+|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xshadew&redirect=true)||
 |-|-|
 
 ## What da Snake Doin' 
