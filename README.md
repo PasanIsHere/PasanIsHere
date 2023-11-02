@@ -6,7 +6,7 @@
 - 🤔 Need a hand with quantitative development? Count me in! I'm here to help you crunch those numbers.
 - 💬 Feel free to ask me anything, whether it's about coding, anime, gaming or even just a random chat.
 - 📫 Reach out to me at pasanu@protonmail.com or www.linkedin.com/in/pasan-undugodage. I'd love to connect!
-- 😄 Pronouns: He/Him/They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 我在学中文 (I'm currently learning Chinese)
 - 🎵 Curious about my playlist? Check out what's flowing through my headphones!
   
