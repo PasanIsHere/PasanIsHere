@@ -17,7 +17,7 @@ I’m always down to **brainstorm, debug, or geek out over new projects.**
 
 ## 🎮 Other things I nerd out about:
 - 📺 **Anime** – Check out my watchlist on **[AniList](https://anilist.co/user/XShadew/)**!  
-- 🎮 **Gaming** – Currently obsessed with **TeamFight Tactics** and **SWORN**
+- 🎮 **Gaming** – Currently obsessed with **Teamfight Tactics** and **SWORN**
 - 🈴 **Learning Chinese** – 我在学中文, but my tones are questionable 😅  
 - 🎵 **Music** – See what’s on repeat on **[Last.fm](https://www.last.fm/user/XShadew)**!  
 - ⌨️ **Typing Speed** – On a mission to hit **150 WPM!** 🏎️  
