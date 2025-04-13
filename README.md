@@ -26,7 +26,7 @@ I’m always down to **brainstorm, debug, or geek out over new projects.**
 
 
 ## 📫 **Let’s Connect!**  
-- 📧 **Email:** pasanu@protonmail.com  
+- 📧 **Email:** pasan.und@gmail.com  
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/pasan-undugodage/)**  
 
 
