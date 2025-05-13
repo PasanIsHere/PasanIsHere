@@ -5,7 +5,7 @@
 ## What I’m up to:
 - Learning Go through Boot.dev to achieve backend enlightenment
 - Using Vim until I achieve mastery or carpal tunnel
-- Streaming code chaos, project meltdowns, and occasional gaming over on  **[Twitch](https://www.twitch.tv/xshadew)**
+- Building, failing, fixing, learning
 
 
 ##  Some other interest:
