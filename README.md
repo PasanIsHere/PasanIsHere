@@ -12,4 +12,4 @@
 
 ## 📫 Reach out (carrier pigeons accepted)
 - 📧 **Email:** pasan.und@gmail.com  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/pasan-undugodage/)**  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/pasanu)**  
