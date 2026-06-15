@@ -18,7 +18,7 @@ Took a break to travel, and now I'm back! Learning something new and Claudemaxxi
 <summary><strong>United States | October 2025 – January 2026 </strong></summary>
 
 - Went to see some friends and explore **Los Angeles, San Diego, Las Vegas, and New York**
-- Honestly New York was probablly my favoritie out of these, but super bias because most of my friends lived here LOL and I'm a big foodie
+- Honestly, New York was probably my favorite out of all of these, but I'm super biased since most of my friends live there LOL. Being a big foodie definitely helped too
 
 </details>
 
