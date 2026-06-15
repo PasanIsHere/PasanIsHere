@@ -10,6 +10,6 @@
 ![Typing Speed](https://monkey-widget.vercel.app/api/user/XShade)
 
 
-## 📫 Reach out (carrier pigeons accepted)
+## 📫 Reach out
 - 📧 **Email:** pasan.und@gmail.com  
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/pasanu)**  
