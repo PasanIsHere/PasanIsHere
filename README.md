@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pasan!
-Took a break to travel, and now I'm back! Learning something new and maxing out my Claudemaxxing every day. If you're in Toronto, you might catch me helping organize events or just building at a coworking café ^^
+Took a break to travel, and now I'm back! Learning something new and Claudemaxxing every day. If you're in Toronto, you might catch me helping organize events or just building at a coworking space ^^
 
 ## 🛠️ Things I'm building right now
 
