@@ -23,7 +23,7 @@ Took a break to travel, and now I'm back! Learning something new and maxing out 
 </details>
 
 <details>
-<summary><strong>South Korea | July 2025 –September 2025  </strong></summary>
+<summary><strong>South Korea | July 2025 – September 2025  </strong></summary>
 
 - Visited **Incheon, Seoul, Busan, Wonju, Gyeongju, Jeju Island, and Daejeon**
 - Korean BBQ became a regular part of life, I was eating it every other day 🤤
